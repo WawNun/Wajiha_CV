@@ -1,91 +1,84 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Wajiha CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Wajiha Noor 
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Graduate Student (Public Policy)
 
+<div/> <a href="wnoor001@ucr.edu">wnoor001@ucr.edu |<a href="https://github.com/WawNun">github.com/WawNun </a> 
 
-## Currently
+### Interested In
 
-Standing on the shoulders of giants
+Working on topics including environmental justice and environmental policy.
 
-### Specialized in
+## 🎓 Education
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+__University of California, Riverside__
 
+`Expected 2022`
+Master of Arts - Public Policy
 
-### Research interests
+__Lahore School of Economics__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Aug 2008`
+Master of Business Administration - Marketing
 
+`May 2007`
+Bachelor of Science (Honors) - Economics and Finance
 
-## Education
+## 💼 Professional Experience
+  
+`Mar 2021- Jun 2021`
+__Research Assistant__, **[University of California School of Public Policy](https://spp.ucr.edu/mpp)**, Riverside,CA, United States
 
-`1654-1660`
-__The King's School, Grantham.__
+Analyzed and researched topics related to delinquency and water affordability in California. 
+  
+`May 2016- Dec 2016` 
+__Research Assistant__, **[Center for Energy Studies, Baker Institute for Public Policy](https://www.bakerinstitute.org/center-for-energy-studies/)**, Houston,TX, United States
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Provided high-level administrative and analytical support to the center’s projects and research by working closely with the program coordinator to meet strict deadlines by utilizing organizing and research tools.
 
-- Sizar
+Maintained strong and professional communication with the program coordinators verbally and through individual correspondence and emails.
 
-`1667 - death`
-__Trinity College, Cambridge__
+Analyzed, researched, and synthesized large amounts information while utilizing analysis techniques to highlight and provide feedback on relevant project and initiative.
 
-- Fellow
+`Aug 2015- Mar 2016`
+__Faculty Assistant__, **[Economics Department, Rice University](https://economics.rice.edu/)**, Houston, TX, United States
 
+Organized and maintained faculty research profile and research papers references on Research Gate.
 
+Assisted faculty in collection of teaching material along with effectively coordinating and distributing the material during lectures.
 
-## Awards
+ `Sept 2008- Apr 2011`
+__Graduate Teaching Associate__, **[Lahore School of Economics](https://lahoreschoolofeconomics.edu.pk/)**, Lahore, Pakistan
+ 
+Delivered a range of teaching and assessment activities including tutorials directed towards the delivery of subjects at undergraduate level.
 
-`2012`
-President, *Royal Society*, London, UK
+Supported and participated in faculty research projects by engaging in literature searches.
 
-Associate, *French Academy of Science*, Paris, France
+Assisted and mentored students in groups and on an individual basis to enhance their understanding of course material.
 
+Participated in the assessment process using a variety of methods and techniques and provided effective timely and appropriate feedback to students to support their learning.
 
+## 🏆 Awards
 
-## Publications
+Silver Medal holder, Placement on Dean Honors List for the Graduate Program.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Recipient of Lahore School of Economics Graduate and Undergraduate Merit Scholarship.
 
-### Journals
+Silver Medal holder, Placement on Annual Dean Honors List for all years of Undergraduate Program.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## 💻 Computing Skills
 
-`1669`
-Lectiones opticæ.
+Microsoft Office, STATA16, Python, ArcGIS, Google Drive, Wordpress
 
-etc. etc. etc.
+## 🖋️ Languages
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+English, Urdu, Punjabi and Conversational Hindi
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Last updated: March 2021 -->
 
