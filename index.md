@@ -10,7 +10,7 @@ Graduate Student (Public Policy)
 
 ### Interested In
 
-Working on topics including environmental justice and environmental policy.
+Topics related to environmental justice and environmental policy in Southern California.
 
 ## 🎓 Education
 
