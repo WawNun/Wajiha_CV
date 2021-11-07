@@ -29,6 +29,9 @@ Bachelor of Science (Honors) - Economics and Finance
 
 ## 💼 Professional Experience
   
+`Aug 2021- Present`
+__Research Assistant__, **[Center for Geospatial Sciences (CGS)](https://spatial.ucr.edu/)**, Riverside,CA, United States  
+  
 `Mar 2021- Jun 2021`
 __Research Assistant__, **[University of California School of Public Policy](https://spp.ucr.edu/mpp)**, Riverside,CA, United States
 
