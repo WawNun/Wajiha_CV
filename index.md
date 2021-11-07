@@ -10,16 +10,16 @@ Graduate Student (Public Policy)
 
 ### Interested In
 
-Topics related to environmental justice and environmental policy in Southern California.
+Topics related to segregation, environmental justice, environmental policy, health policy, and water policy in California.
 
-## 🎓 Education
+## Education
 
-__University of California, Riverside__
+__University of California, Riverside, US__
 
 `Expected 2022`
 Master of Arts - Public Policy
 
-__Lahore School of Economics__
+__Lahore School of Economics, Lahore, Pakistan__
 
 `Aug 2008`
 Master of Business Administration - Marketing
@@ -27,7 +27,7 @@ Master of Business Administration - Marketing
 `May 2007`
 Bachelor of Science (Honors) - Economics and Finance
 
-## 💼 Professional Experience
+## Professional Experience
   
 `Aug 2021- Present`
 __Research Assistant__, **[Center for Geospatial Sciences (CGS)](https://spatial.ucr.edu/)**, Riverside,CA, United States  
@@ -64,7 +64,7 @@ Assisted and mentored students in groups and on an individual basis to enhance t
 
 Participated in the assessment process using a variety of methods and techniques and provided effective timely and appropriate feedback to students to support their learning.
 
-## 🏆 Awards
+## Awards
 
 Silver Medal holder, Placement on Dean Honors List for the Graduate Program.
 
@@ -72,11 +72,11 @@ Recipient of Lahore School of Economics Graduate and Undergraduate Merit Scholar
 
 Silver Medal holder, Placement on Annual Dean Honors List for all years of Undergraduate Program.
 
-## 💻 Computing Skills
+## Computing Skills
 
 Microsoft Office, STATA16, Python, ArcGIS, Google Drive, Wordpress
 
-## 🖋️ Languages
+## Languages
 
 English, Urdu, Punjabi and Conversational Hindi
 
