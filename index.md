@@ -16,16 +16,19 @@ Topics related to segregation, environmental justice, environmental policy, heal
 
 __University of California, Riverside, US__
 
-`Expected 2022`
+`2022`
 Master of Arts - Public Policy
+CGPA 3.93
 
 __Lahore School of Economics, Lahore, Pakistan__
 
 `Aug 2008`
 Master of Business Administration - Marketing
+CGPA 3.93
 
 `May 2007`
 Bachelor of Science (Honors) - Economics and Finance
+CGPA 3.97
 
 ## Professional Experience
   
